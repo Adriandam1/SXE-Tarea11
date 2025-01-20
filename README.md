@@ -44,6 +44,11 @@ Contacto de nuestra empresa:
 Formato factura:
 ![TareaOdoo9](https://github.com/user-attachments/assets/a145f0fe-1f28-4dc0-aac1-8463ebfda00c)
 
+Creamos todos los contactos facilitados en la práctica empresas e individuos. Es aconsejable crear las empresas primero, ya que asi los individuos los puedes asignar a las empresas a las que pertenecen.
+
+Imagen de muestra:
+
+
 
 
 
