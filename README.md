@@ -24,6 +24,17 @@ Rellenamos los datos:
 Ahora elegimos la base de datos y nos logeamos con nuestras credenciales:
 ![tareaOdoo3](https://github.com/user-attachments/assets/8991a1a8-da11-48c1-b2e1-a0c8426be5a3)
 
+En esta nueva base de datos no tenemos las aplicaciones instaladas así que lo que haremos primero será instalarlas
+
+La primera que instalamos será para la Facturación en la lista de aplicaciones escribimos Ventas:
+![TareaOdoo4](https://github.com/user-attachments/assets/a48cedbd-1ac0-4cc3-9146-c8143cbee326)
+
+También necesitaremos registrar nuestros contactos, usaremos la aplicación contactos:
+![TareaOdoo5](https://github.com/user-attachments/assets/ab64b934-9ab3-4eb8-9d16-8cc5e3a2a7ff)
+
+
+
+
 ###
 
 
