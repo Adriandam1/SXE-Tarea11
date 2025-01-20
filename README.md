@@ -47,6 +47,8 @@ Formato factura:
 Creamos todos los contactos para ello vamos a importar los contactos de nuestro excel:
 ![TareaOdoo10](https://github.com/user-attachments/assets/c7a1fec7-4cf5-4abd-bed5-653c9c1ca7c0)
 
+Contactos creados:
+![TareaOdoo11](https://github.com/user-attachments/assets/64651190-ef35-4766-9290-00a6fa28ab74)
 
 
 
