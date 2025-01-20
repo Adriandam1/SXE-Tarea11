@@ -32,6 +32,22 @@ La primera que instalamos será para la Facturación en la lista de aplicaciones
 También necesitaremos registrar nuestros contactos, usaremos la aplicación contactos:
 ![TareaOdoo5](https://github.com/user-attachments/assets/ab64b934-9ab3-4eb8-9d16-8cc5e3a2a7ff)
 
+Configuramos la localizacion fiscal y demas valores de nuestra empresa:
+![TareaOdoo6](https://github.com/user-attachments/assets/901239c5-a768-42fd-acd0-e970af1377b3)
+
+Realizamos la configuración de los datos de nuestra empresa y el formato de las facturas:
+![TareaOdoo7](https://github.com/user-attachments/assets/f765fb54-f65a-4cc8-86f3-a8ac6fdb3b92)
+
+Contacto de nuestra empresa:
+![TareaOdoo8](https://github.com/user-attachments/assets/683115b9-d617-4222-beca-7c26144bd91a)
+
+Formato factura:
+![TareaOdoo9](https://github.com/user-attachments/assets/a145f0fe-1f28-4dc0-aac1-8463ebfda00c)
+
+
+
+
+
 
 
 
