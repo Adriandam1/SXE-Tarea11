@@ -51,6 +51,18 @@ Contactos creados:
 ![TareaOdoo11](https://github.com/user-attachments/assets/64651190-ef35-4766-9290-00a6fa28ab74)
 
 
+## Creacion facturas
+
+Creacion factura:
+![factura1](https://github.com/user-attachments/assets/2a8d574c-df39-436c-9028-c1b40f97c88c)
+
+
+Para registrar el pago podemos ya ir en la parte superior izquierda a la opción "Registrar Pago"
+![factura2](https://github.com/user-attachments/assets/d90ddfa8-ce99-40e0-8827-369aa7c6d424)
+
+
+Comprobamos como se crean nuestras facturas:
+![facturas3](https://github.com/user-attachments/assets/3c421abd-e700-4c70-a4f9-710e5d820364)
 
 
 
