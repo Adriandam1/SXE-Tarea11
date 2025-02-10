@@ -99,3 +99,64 @@ Finalmente, realizamos un backup de nuestra base de datos para asegurarnos de qu
 
 - Accedemos nuevamente a **/web/database/manager** y seleccionamos la opción **Backup** para descargar una copia de seguridad de nuestra base de datos.  
 ![sxe16](https://github.com/user-attachments/assets/0b95cf98-a2e7-484c-89c4-c3336eec8eca)  
+
+
+-------------------------------------------------------
+### 7. Edito: Apartado Odoo Configuracion minima inicial. Instalaremos Inventario:
+Esta aplicación nos permitira planificar y registrar las entregas y recepciones de pedidos, tanto de nuestras ventas, como de nuestros proveedores.
+
+Lo primero que tenemos es que instalar la aplicación, buscamos "inventario":
+![zznuevo1](https://github.com/user-attachments/assets/522eb361-c352-4999-8e16-20bef1058756)
+
+Una vez instalado, ya podemos empezar a trabajar con él. Podemos empezar creando una nueva orden de entrega: 
+![zznuevo2](https://github.com/user-attachments/assets/2d9ff42b-b4cd-4239-b66e-32183ee04608)  
+
+
+Rellenamos los campos como direccion de entrega, fecha, los productos y la demanda y le damos a validar:
+![zznuevo3](https://github.com/user-attachments/assets/6adaec5c-00b5-4b14-8789-c41d507bf1f6)
+
+Podemos dejar la orden pendiente, o validarle directamente, si lo hacemos tenemos la opcion de enviar un SMS o mail de confirmación(esto podemos automatizarlo para que no nos lo pida)
+
+Comprobamos que nos aparece el codigo en la parte superior izquierda para confirmar
+![zznuevo4](https://github.com/user-attachments/assets/d0c6aed6-d5b9-4200-9447-42a6d8d18c68)
+
+Para las recepciones sería exactamente lo mismo
+
+En *productos* los podemos configurar en la pestaña productos:
+![zznuevo5](https://github.com/user-attachments/assets/8c49f3a4-cfbb-4fbc-98f1-cbd90dc3d6f8)
+
+En el apartado  *informe* podemos comprobar el historial de operaciones, análisis de movimientos, ubicaciones, comprobar el stock y modificarlo...
+![zznuevo7](https://github.com/user-attachments/assets/8dd6d318-b185-4e3f-aced-3132afbce7bf)
+
+Ejemplo con **cartuchos de tinta**:
+![zznuevo8](https://github.com/user-attachments/assets/93cf87b8-2caa-489b-bca4-24031413fc34)
+
+
+También es muy interesante el apartado *Configuración* podemos configurar un montón de parametros, es interesante el subapartado almacenes, en el que podemos configurar nuestros almacenes:
+![zznuevo6](https://github.com/user-attachments/assets/f75e36c5-6a8e-49a7-9b73-6d97b6cb5592)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
